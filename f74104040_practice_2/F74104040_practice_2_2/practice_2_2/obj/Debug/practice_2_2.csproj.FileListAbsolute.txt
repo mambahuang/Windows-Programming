@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\practice_2_2\practice_2_2\bin\Debug\practice_2_2.exe.config
+C:\Users\angel\source\repos\practice_2_2\practice_2_2\bin\Debug\practice_2_2.exe
+C:\Users\angel\source\repos\practice_2_2\practice_2_2\bin\Debug\practice_2_2.pdb
+C:\Users\angel\source\repos\practice_2_2\practice_2_2\obj\Debug\practice_2_2.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\practice_2_2\practice_2_2\obj\Debug\practice_2_2.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\practice_2_2\practice_2_2\obj\Debug\practice_2_2.exe
+C:\Users\angel\source\repos\practice_2_2\practice_2_2\obj\Debug\practice_2_2.pdb
+C:\Users\angel\source\repos\F74104040_practice_2_2\practice_2_2\bin\Debug\practice_2_2.exe.config
+C:\Users\angel\source\repos\F74104040_practice_2_2\practice_2_2\bin\Debug\practice_2_2.exe
+C:\Users\angel\source\repos\F74104040_practice_2_2\practice_2_2\bin\Debug\practice_2_2.pdb
+C:\Users\angel\source\repos\F74104040_practice_2_2\practice_2_2\obj\Debug\practice_2_2.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\F74104040_practice_2_2\practice_2_2\obj\Debug\practice_2_2.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\F74104040_practice_2_2\practice_2_2\obj\Debug\practice_2_2.exe
+C:\Users\angel\source\repos\F74104040_practice_2_2\practice_2_2\obj\Debug\practice_2_2.pdb
