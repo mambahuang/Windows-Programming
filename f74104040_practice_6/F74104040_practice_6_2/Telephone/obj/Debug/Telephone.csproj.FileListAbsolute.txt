@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\Telephone\Telephone\bin\Debug\Telephone.exe.config
+C:\Users\angel\source\repos\Telephone\Telephone\bin\Debug\Telephone.exe
+C:\Users\angel\source\repos\Telephone\Telephone\bin\Debug\Telephone.pdb
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Telephone.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Telephone.Form1.resources
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Telephone.exe
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Telephone.pdb
+C:\Users\angel\source\repos\Telephone\Telephone\bin\Debug\Interop.WMPLib.dll
+C:\Users\angel\source\repos\Telephone\Telephone\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Interop.WMPLib.dll
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\angel\source\repos\Telephone\Telephone\obj\Debug\Telephone.csproj.ResolveComReference.cache

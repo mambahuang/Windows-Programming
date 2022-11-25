@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\Temple\Temple\bin\Debug\Temple.exe.config
+C:\Users\angel\source\repos\Temple\Temple\bin\Debug\Temple.exe
+C:\Users\angel\source\repos\Temple\Temple\bin\Debug\Temple.pdb
+C:\Users\angel\source\repos\Temple\Temple\obj\Debug\Temple.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\Temple\Temple\obj\Debug\Temple.Form1.resources
+C:\Users\angel\source\repos\Temple\Temple\obj\Debug\Temple.Properties.Resources.resources
+C:\Users\angel\source\repos\Temple\Temple\obj\Debug\Temple.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Temple\Temple\obj\Debug\Temple.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Temple\Temple\obj\Debug\Temple.exe
+C:\Users\angel\source\repos\Temple\Temple\obj\Debug\Temple.pdb
