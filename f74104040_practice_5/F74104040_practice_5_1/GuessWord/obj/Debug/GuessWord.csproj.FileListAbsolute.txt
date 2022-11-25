@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\GuessWord\GuessWord\bin\Debug\GuessWord.exe.config
+C:\Users\angel\source\repos\GuessWord\GuessWord\bin\Debug\GuessWord.exe
+C:\Users\angel\source\repos\GuessWord\GuessWord\bin\Debug\GuessWord.pdb
+C:\Users\angel\source\repos\GuessWord\GuessWord\obj\Debug\GuessWord.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\GuessWord\GuessWord\obj\Debug\GuessWord.Form1.resources
+C:\Users\angel\source\repos\GuessWord\GuessWord\obj\Debug\GuessWord.Properties.Resources.resources
+C:\Users\angel\source\repos\GuessWord\GuessWord\obj\Debug\GuessWord.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\GuessWord\GuessWord\obj\Debug\GuessWord.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\GuessWord\GuessWord\obj\Debug\GuessWord.exe
+C:\Users\angel\source\repos\GuessWord\GuessWord\obj\Debug\GuessWord.pdb
