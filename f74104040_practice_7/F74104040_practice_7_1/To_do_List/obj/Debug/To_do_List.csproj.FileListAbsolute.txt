@@ -1,0 +1,11 @@
+C:\Users\angel\source\repos\To_do_List\To_do_List\bin\Debug\To_do_List.exe.config
+C:\Users\angel\source\repos\To_do_List\To_do_List\bin\Debug\To_do_List.exe
+C:\Users\angel\source\repos\To_do_List\To_do_List\bin\Debug\To_do_List.pdb
+C:\Users\angel\source\repos\To_do_List\To_do_List\obj\Debug\To_do_List.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\To_do_List\To_do_List\obj\Debug\To_do_List.Form1.resources
+C:\Users\angel\source\repos\To_do_List\To_do_List\obj\Debug\To_do_List.Properties.Resources.resources
+C:\Users\angel\source\repos\To_do_List\To_do_List\obj\Debug\To_do_List.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\To_do_List\To_do_List\obj\Debug\To_do_List.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\To_do_List\To_do_List\obj\Debug\To_do_List.exe
+C:\Users\angel\source\repos\To_do_List\To_do_List\obj\Debug\To_do_List.pdb
+C:\Users\angel\source\repos\To_do_List\To_do_List\obj\Debug\To_do_List.Form2.resources
