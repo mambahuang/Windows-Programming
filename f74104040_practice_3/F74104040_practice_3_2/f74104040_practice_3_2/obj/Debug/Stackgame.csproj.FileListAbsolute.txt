@@ -1,0 +1,40 @@
+C:\Users\angel\source\repos\Stackgame\Stackgame\bin\Debug\Stackgame.exe.config
+C:\Users\angel\source\repos\Stackgame\Stackgame\bin\Debug\Stackgame.exe
+C:\Users\angel\source\repos\Stackgame\Stackgame\bin\Debug\Stackgame.pdb
+C:\Users\angel\source\repos\Stackgame\Stackgame\obj\Debug\Stackgame.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\Stackgame\Stackgame\obj\Debug\Stackgame.Form1.resources
+C:\Users\angel\source\repos\Stackgame\Stackgame\obj\Debug\Stackgame.Properties.Resources.resources
+C:\Users\angel\source\repos\Stackgame\Stackgame\obj\Debug\Stackgame.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Stackgame\Stackgame\obj\Debug\Stackgame.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Stackgame\Stackgame\obj\Debug\Stackgame.exe
+C:\Users\angel\source\repos\Stackgame\Stackgame\obj\Debug\Stackgame.pdb
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\bin\Debug\Stackgame.exe.config
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\bin\Debug\Stackgame.exe
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\bin\Debug\Stackgame.pdb
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\obj\Debug\Stackgame.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\obj\Debug\Stackgame.Form1.resources
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\obj\Debug\Stackgame.Properties.Resources.resources
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\obj\Debug\Stackgame.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\obj\Debug\Stackgame.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\obj\Debug\Stackgame.exe
+C:\Users\angel\OneDrive\文件\Stackgame(1)\Stackgame\obj\Debug\Stackgame.pdb
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\bin\Debug\Stackgame.exe.config
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\bin\Debug\Stackgame.exe
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\bin\Debug\Stackgame.pdb
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\obj\Debug\Stackgame.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\obj\Debug\Stackgame.Form1.resources
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\obj\Debug\Stackgame.Properties.Resources.resources
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\obj\Debug\Stackgame.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\obj\Debug\Stackgame.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\obj\Debug\Stackgame.exe
+C:\Users\angel\source\repos\F74104040_practice_3_2\Stackgame\obj\Debug\Stackgame.pdb
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\bin\Debug\Stackgame.exe.config
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\bin\Debug\Stackgame.exe
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\bin\Debug\Stackgame.pdb
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\obj\Debug\Stackgame.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\obj\Debug\Stackgame.Form1.resources
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\obj\Debug\Stackgame.Properties.Resources.resources
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\obj\Debug\Stackgame.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\obj\Debug\Stackgame.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\obj\Debug\Stackgame.exe
+C:\Users\angel\source\repos\F74104040_practice_3_2 - Copy\Stackgame\obj\Debug\Stackgame.pdb
